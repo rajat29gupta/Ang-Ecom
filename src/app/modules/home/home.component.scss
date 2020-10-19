@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,900&display=swap");
+.txt-hd {
+    font-family: "Lato", sans-serif;
+}
+
+.bg-imgs {
+    background-image: url("../../../assets/home-new-bg-free-img.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 80vh;
+}
+
+.ds-cnt {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    flex-direction: column;
+}
