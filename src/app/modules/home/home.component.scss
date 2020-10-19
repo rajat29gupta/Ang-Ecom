@@ -17,3 +17,14 @@
     align-items: baseline;
     flex-direction: column;
 }
+
+@media only screen and (max-width: 768px) {
+    .ds-sm-flex {
+        display: flex;
+        flex-direction: column;
+    }
+    .ds-sm {
+        margin-left: 0px;
+        margin-top: 1rem;
+    }
+}
